@@ -1,0 +1,8 @@
+# Exclude environment-specific configuration files
+.env.*
+
+# Exclude the .vscode/ directory for VSCode settings
+.vscode/
+
+# Exclude the node_modules/ directory with installed dependencies
+node_modules/
