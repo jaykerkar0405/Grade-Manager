@@ -30,7 +30,7 @@ const Header = () => {
           <a
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/Afnankazi/Gradesub-test-"
+            href="https://github.com/jaykerkar0405/Grade-Manager"
             className="text-white mr-3 md:mr-0 focus:ring-4 focus:outline-none font-medium rounded-lg text-sm px-4 py-2 text-center bg-purple-600 hover:bg-purple-700 focus:ring-purple-800 flex items-center justify-center"
           >
             Source Code
