@@ -14,7 +14,7 @@ const Footer = () => {
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline"
-              href="https://github.com/Afnankazi/Gradesub-test-"
+              href="https://github.com/jaykerkar0405/Grade-Manager"
             >
               Grade Manager
             </a>{" "}
